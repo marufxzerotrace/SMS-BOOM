@@ -101,7 +101,7 @@ logo = ("""
 def lnx():print(52*f'{g}━')
 def MAIN_x_zerotrace():
     os.system("clear");LijA(logo2)
-    print(f"\n{lgt}{y}{itl}{bgr}</> I am Maruf:{stp}{lgt}{y}{unl}This {r}\"Cyber Sequrity\"{y}BlackHat {stp}")
+    print(f"\n{lgt}{y}{itl}{bgr}</> Maruf x ZeroTrace:{stp}{lgt}{y}{unl}{r}\"Cyber Sequrity Expart\"{y} Programmer, Web Developer, App Developer {stp}")
     lnx()
     number=input(f"{c}<{w}/{c}> {g}VICTIM NUMBER {c}➤{r} +88")
     lnx()
@@ -1323,6 +1323,7 @@ def DARKS(number,amo):
     print(f"{c} <{w}/{c}> {g}⚡ SMS SPAM {r}v7.0 {g}Successfully Completed !");lnx()
     print(f"{c} <{w}/{c}> {g}💥 Please Run Again For Spam Again {w}>{g}> \n")
     os._exit(0)
+
 
 
 MAIN_x_zerotrace()
