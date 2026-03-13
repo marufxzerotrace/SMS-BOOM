@@ -73,10 +73,10 @@ pip install requests fake-useragent
 
 ## 👨‍💻 Author
 
-* **Name:** Mohammad Alamin
-* 🐙 GitHub: [@anbuinfosec](https://github.com/anbuinfosec)
+* **Name:** Maruf x ZeroTrace 
+* 🐙 GitHub: [@tyranroot](https://github.com/tyranroot/)
 * 💬 Telegram: [@anbuinfosec\_official](https://t.me/anbuinfosec_official)
-* 📘 Facebook: [Mohammad Alamin](https://www.facebook.com/anbuinfosec)
+* 📘 Facebook: [Mohammad Alamin](https://www.facebook.com/share/1CDxaGN6p3/)
 
 ---
 
