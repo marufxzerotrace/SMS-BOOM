@@ -31,7 +31,7 @@ A Python-based SMS bombing tool for **Bangladeshi mobile numbers** — intended 
 pkg update -y
 pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/anbuinfosec/bd-sms.git
+git clone https://github.com/tyranroot/SMS-BOOM.git
 cd bd-sms
 pip install -r requirements.txt
 ````
