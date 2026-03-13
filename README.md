@@ -32,8 +32,8 @@ pkg update -y
 pkg upgrade -y
 pkg install python git -y
 git clone https://github.com/tyranroot/SMS-BOOM.git
-cd bd-sms
-pip install -r requirements.txt
+cd SMS-BOMB
+python3 sms_bomb.py
 ````
 
 ---
@@ -46,19 +46,6 @@ pip install -r requirements.txt
 python sms_bomb.py
 ```
 
-**Command-Line Mode:**
-
-```bash
-python sms_bomb.py --number 017XXXXXXXX --thread 20 --delay 1
-```
-
-**Update APIs:**
-
-```bash
-python sms_bomb.py --update
-```
-
----
 
 ## 📦 Python Requirements
 
@@ -75,8 +62,8 @@ pip install requests fake-useragent
 
 * **Name:** Maruf x ZeroTrace 
 * 🐙 GitHub: [@tyranroot](https://github.com/tyranroot/)
-* 💬 Telegram: [@anbuinfosec\_official](https://t.me/anbuinfosec_official)
-* 📘 Facebook: [Mohammad Alamin](https://www.facebook.com/share/1CDxaGN6p3/)
+* 💬 Telegram: [@marufxzerotrace](https://t.me/marufxzerotrace)
+* 📘 Facebook: [Maruf x ZeroTrace](https://www.facebook.com/share/1CDxaGN6p3/)
 
 ---
 
@@ -90,4 +77,4 @@ If you find this tool useful:
 
 ---
 
-**© 2025 anbuinfosec — All rights reserved.**
+**© 2026 TyranRoot — All rights reserved.**
