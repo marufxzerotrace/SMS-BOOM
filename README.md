@@ -19,9 +19,6 @@ A Python-based SMS bombing tool for **Bangladeshi mobile numbers** — intended 
 - 🔁 Sends SMS requests using public APIs (auto-updatable).
 - 🔢 Custom thread count (up to 50 successful requests).
 - 🕒 Configurable delay between requests.
-- 🎭 Random User-Agent and payloads.
-- 🧑‍💻 Interactive and command-line usage.
-- 🌐 Auto-update API list with `--update`.
 
 ---
 
